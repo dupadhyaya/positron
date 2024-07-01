@@ -7,6 +7,6 @@ from pydataset import data
 mtcars = data('mtcars')
 mtcars.head()
 
+xp = [1,2,3,4]
 
-x
-
+print(xp)
